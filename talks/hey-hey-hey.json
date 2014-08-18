@@ -1,0 +1,25 @@
+{
+  "title": "Hey-hey-hey",
+  "key": "hey-hey-hey",
+  "year": 1988,
+  "url": "http://clck.ru/2",
+  "imageUrl": "https://www.google.ru/images/srpr/logo11w.png",
+  "description": "Google!",
+  "tags": [
+    {
+      "title": "web",
+      "key": "web"
+    }
+  ],
+  "speakers": [
+    {
+      "title": "Nope",
+      "key": "nope"
+    }
+  ],
+  "location": {
+    "title": "World!",
+    "key": "world-"
+  },
+  "added": "2014-08-18 15:47:07 UTC"
+}
