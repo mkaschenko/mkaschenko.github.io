@@ -1,0 +1,25 @@
+{
+  "title": "Zoob",
+  "key": "zoob",
+  "year": 1972,
+  "url": "In et ab voluptatem exercitationem dignissimos ullamco qui est amet",
+  "imageUrl": "Nulla et tempor est eos nemo deserunt voluptate",
+  "description": "Autem accusantium deleniti soluta velit suscipit asperiores fugiat, veritatis ut consequatur, obcaecati et.",
+  "tags": [
+    {
+      "title": "Aspernatur sit tempora omnis ea minima fugiat pariatur Ad",
+      "key": "aspernatur-sit-tempora-omnis-ea-minima-fugiat-pariatur-ad"
+    }
+  ],
+  "speakers": [
+    {
+      "title": "Doloribus et eum aspernatur in sed autem ut officia et maxime quisquam explicabo Irure amet voluptates voluptas nemo ex magni",
+      "key": "doloribus-et-eum-aspernatur-in-sed-autem-ut-officia-et-maxime-quisquam-explicabo-irure-amet-voluptates-voluptas-nemo-ex-magni"
+    }
+  ],
+  "location": {
+    "title": "Fugiat et consequatur Ab qui sit quasi quam ut est consectetur quis possimus sit autem velit illo ipsa",
+    "key": "fugiat-et-consequatur-ab-qui-sit-quasi-quam-ut-est-consectetur-quis-possimus-sit-autem-velit-illo-ipsa"
+  },
+  "added": "2014-08-26 01:10:17 UTC"
+}
