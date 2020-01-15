@@ -3,7 +3,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-#about {
+.about {
     /* How to center an element horizontally and vertically */
     /* https://stackoverflow.com/a/28336352/3483708 */
     right: 50%;
@@ -11,34 +11,37 @@ body {
     transform: translate(50%, 50%);
     position: absolute;
 
-    max-height: 85%;
+    max-height: 90%;
+    width: 700px;
+
+    line-height: 1.3em;
 }
 
-#contacts {
+.contacts {
     padding: 0;
     list-style-type: none;
 }
 
-#contacts li {
+.contacts li {
     padding: 1px 0;
 }
 
 @media screen and (max-width: 1023px) {
-    #about {
-        width: 70%;
+    .about {
+        width: 700px;
     }
 
-    #contacts li {
+    .contacts li {
         padding: 3px 0;
     }
 }
 
 @media screen and (max-width: 767px) {
-    #about {
-        width: 80%;
+    .about {
+        width: 85%;
     }
 
-    #contacts li {
+    .contacts li {
         padding: 3px 0;
     }
 }
