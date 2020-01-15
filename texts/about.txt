@@ -1,0 +1,28 @@
+*Maxim Kashchenko* is a software engineer from Russia.
+
+His path began in a technical university where he was studying _"Informatics and
+Computer Science" (bachelor)_ and _"Databases" (master)_. Less than a year after the
+beginning he got his first job in a local software development company. Combining
+work with study he graduated from the university and got working experience in a
+couple outsourcing companies and one product as well.
+
+Being freelancer for a while and travelling around Southeast Asia he settled down in
+Bangkok. Continuing his path Maxim worked for some companies, leaded some teams,
+used some programming languages.
+
+Overall during a decade career he was solving problems in different domains such as:
+crawling and parsing, CMS (Content Management Systems), e-commerce, review sites,
+affiliate programs, virtual data rooms, real estate, visual analytic platforms for
+retail banks, personal insurance in USA, education platforms and others.
+
+His main language is _*Ruby*_, also he is familiar with _*Clojure*_ (the favourite one)
+and gained some knowledge in _TypeScript_.
+
+Currently he is _*available for hiring*_ and looking for a _*remote*_ job. Review his CV
+(Curriculum Vitae) if needed.
+
+Email: mkaschenko@me.com
+Twitter: @mkaschenko
+Github: @mkaschenko
+LinkedIn: @mkaschenko
+Location: Thailand, ICT (Indochina Time), UTC +7
