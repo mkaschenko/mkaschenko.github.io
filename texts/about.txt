@@ -16,7 +16,7 @@ review sites, affiliate programs, virtual data rooms, real estate, visual analyt
 retail banks, personal insurance in USA, education platforms and others.
 
 His main language is _*Ruby*_, also he is familiar with _*Clojure*_ (the favourite one)
-and gained some knowledge in _TypeScript_.
+and gained some knowledge in _SQL_, _TypeScript_.
 
 Currently he is _*available for hiring*_ and looking for a _*remote*_ job. Review his CV
 (Curriculum Vitae) if needed.
