@@ -11,8 +11,8 @@ Bangkok. Continuing his path Maxim worked for some companies, leaded some teams,
 used some programming languages.
 
 Overall during a decade career he was solving problems in different domains such as:
-crawling and parsing, CMS (Content Management Systems), e-commerce, review sites,
-affiliate programs, virtual data rooms, real estate, visual analytic platforms for
+crawling and parsing, CMS (Content Management Systems), e-commerce, scheduling systems,
+review sites, affiliate programs, virtual data rooms, real estate, visual analytic platforms for
 retail banks, personal insurance in USA, education platforms and others.
 
 His main language is _*Ruby*_, also he is familiar with _*Clojure*_ (the favourite one)
