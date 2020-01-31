@@ -1,0 +1,27 @@
+.delimeter-15 {
+    width: 100%;
+    height: 15px;
+
+    display: inline-block;
+}
+
+.delimeter-30 {
+    width: 100%;
+    height: 30px;
+
+    display: inline-block;
+}
+
+.delimeter-50 {
+    width: 100%;
+    height: 50px;
+
+    display: inline-block;
+}
+
+.delimeter-vertical-45 {
+    width: 45px;
+    height: 100%;
+
+    display: inline-block;
+}

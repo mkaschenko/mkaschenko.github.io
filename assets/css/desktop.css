@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color: #FDF6E3;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+.page {
+    margin: 0 auto;
+
+    width: 650px;
+}
+
+.menu {
+    font-size: 18px;
+}
+
+.menu ul {
+    padding-inline-start: 0;
+
+    list-style-type: none;
+}
+
+.menu li {
+    float: left;
+
+    padding: 0 30px 3px 0;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid black;
+}
+
+.menu a:hover {
+    border-bottom: 0px;
+}
+
+.about {
+    font-size: 16px;
+}
+
+.photo {
+    margin: 0 auto;
+
+    width: 135px;
+}
+
+.photo img {
+    width: 135px;
+
+    border-radius: 100%;
+}
+
+.description-short {
+    line-height: 1.5em;
+}
+
+.contacts {
+    float: left;
+}
+
+.contacts ul {
+    margin: 0;
+    padding-inline-start: 0;
+
+    list-style-type: none;
+}
+
+.contacts a,
+.contacts a:visited {
+    color: blue;
+}
+
+.contacts a:hover {
+    text-decoration: none;
+}
+
+.cv {
+    display: inline-block;
+}
+.cv img {
+    height: 95px;
+}
+
+.description-long h1 {
+    margin: 0;
+
+    font-size: 18px;
+}
+
+.description-long a {
+    color: black;
+    text-decoration: none;
+}
+
+.description-long a:hover {
+    text-decoration: underline;
+}
