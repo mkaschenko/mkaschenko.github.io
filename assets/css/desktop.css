@@ -70,8 +70,7 @@ body {
     list-style-type: none;
 }
 
-.contacts a,
-.contacts a:visited {
+.contacts a {
     color: blue;
 }
 
@@ -92,11 +91,26 @@ body {
     font-size: 18px;
 }
 
-.description-long a {
+.description-long h1 a {
     color: black;
     text-decoration: none;
 }
 
-.description-long a:hover {
+.description-long h1 a:hover {
     text-decoration: underline;
+}
+
+.education a {
+    color: blue;
+}
+
+.education a:hover {
+    text-decoration: none;
+}
+
+.education ul {
+    margin: 0;
+    padding-inline-start: 18px;
+
+    list-style-type: circle;
 }
