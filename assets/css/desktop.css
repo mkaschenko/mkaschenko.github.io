@@ -12,7 +12,7 @@ body {
 
     width: 650px;
 
-    /* line-height: 1.5em; */
+    line-height: 1.5;
 }
 
 .menu {
@@ -54,16 +54,19 @@ body {
     margin: 0 auto;
 
     width: 135px;
+    height: 135px;
 }
 
 .photo img {
-    width: 135px;
+    width: 100%;
 
     border-radius: 100%;
 }
 
 .contacts {
     float: left;
+
+    width: 390px;
 }
 
 .contacts ul {
@@ -83,15 +86,19 @@ body {
 
 .cv {
     display: inline-block;
+
+    width: 120px;
+    height: 120px;
 }
 .cv img {
-    height: 95px;
+    width: 100%;
 }
 
 .description-long h1 {
     margin: 0;
 
     font-size: 18px;
+    line-height: 1.3;
 }
 
 .description-long h1 a {
