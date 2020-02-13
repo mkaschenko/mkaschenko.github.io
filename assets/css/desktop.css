@@ -110,6 +110,18 @@ body {
     text-decoration: underline;
 }
 
+.latest-projects-and-roles a {
+    color: blue;
+}
+
+.latest-projects-and-roles a:hover {
+    text-decoration: none;
+}
+
+.latest-projects-and-roles span {
+    color: gray;
+}
+
 .education a {
     color: blue;
 }
