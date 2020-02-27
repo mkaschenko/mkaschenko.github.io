@@ -63,10 +63,14 @@ body {
     border-radius: 100%;
 }
 
-.contacts {
-    float: left;
+.description-short {
+    height: 120px;
+}
 
-    width: 390px;
+.contacts {
+    width: 392px;
+
+    float: left;
 }
 
 .contacts ul {
@@ -85,13 +89,26 @@ body {
 }
 
 .cv {
-    display: inline-block;
-
     width: 120px;
     height: 120px;
+
+    display: inline-block;
+
+    background: url(../images/cv-color.png) no-repeat;
+    background-position: center;
+    background-size: 100%;
 }
-.cv img {
-    width: 100%;
+
+.cv:hover {
+    background: url(../images/cv-black.png) no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.cv a {
+    height: 100%;
+
+    display: block;
 }
 
 .description-long h1 {
