@@ -127,6 +127,10 @@ body {
     text-decoration: underline;
 }
 
+.description-long p {
+    text-align: justify;
+}
+
 .latest-projects-and-roles a {
     color: blue;
 }
