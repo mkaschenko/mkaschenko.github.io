@@ -17,6 +17,17 @@ body {
     line-height: 1.3em;
 }
 
+.about a {
+    color: blue;
+}
+
+.about a:hover {
+    text-decoration: none;
+}
+
+.delimiter {
+    text-align: center;
+}
 .contacts {
     padding: 0;
     list-style-type: none;
