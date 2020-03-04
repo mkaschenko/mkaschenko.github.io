@@ -111,6 +111,11 @@ body {
     display: block;
 }
 
+/* https://css-tricks.com/snippets/css/css-only-image-preloading */
+.cv-preload-image {
+    background: url(../images/cv-black.png) no-repeat -9999px -9999px;
+}
+
 .description-long h1 {
     margin: 0;
 
