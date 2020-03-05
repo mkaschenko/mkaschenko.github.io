@@ -136,6 +136,23 @@ body {
     text-align: justify;
 }
 
+.domain-list {
+    display: inline-block;
+}
+
+.domain-list ul {
+    margin: 0;
+    padding-inline-start: 18px;
+
+    list-style-type: circle;
+}
+
+.domain-list li {
+    width: 316px;
+
+    float: left;
+}
+
 .latest-projects-and-roles a {
     color: blue;
 }
