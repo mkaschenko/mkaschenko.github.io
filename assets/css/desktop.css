@@ -185,3 +185,18 @@ body {
 
     list-style-type: circle;
 }
+
+.credits {
+    font-size: 0.9em;
+
+    float: right;
+}
+
+.credits a {
+    color: gray;
+    text-decoration: none;
+}
+
+.credits a:hover {
+    text-decoration: underline;
+}
