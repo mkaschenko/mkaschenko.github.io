@@ -136,6 +136,12 @@ body {
     text-align: justify;
 }
 
+.technology-list ul {
+    margin: 0;
+    padding-inline-start: 18px;
+    list-style-type: circle;
+}
+
 .domain-list {
     display: inline-block;
 }
