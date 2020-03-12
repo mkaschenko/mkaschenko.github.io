@@ -33,9 +33,11 @@
     display: block;
 }
 
-.delimiter-vertical-45 {
-    width: 45px;
+.delimiter-vertical-75 {
+    width: 75px;
     height: 100%;
 
     display: inline-block;
+
+    float: left;
 }
