@@ -89,31 +89,29 @@ body {
 }
 
 .cv {
-    width: 120px;
     height: 120px;
+    width: 96px;
 
     display: inline-block;
 
-    background: url(../images/cv-color.png) no-repeat;
-    background-position: center;
-    background-size: 100%;
+    text-align: center;
 }
 
-.cv:hover {
-    background: url(../images/cv-black.png) no-repeat;
-    background-position: center;
-    background-size: 100%;
+.cv:hover a {
+    text-decoration: none;
 }
 
 .cv a {
-    height: 100%;
-
-    display: block;
+    color: blue;
 }
 
-/* https://css-tricks.com/snippets/css/css-only-image-preloading */
-.cv-preload-image {
-    background: url(../images/cv-black.png) no-repeat -9999px -9999px;
+.picture {
+    height: 96px;
+}
+
+.picture img {
+    height: 96px;
+    width: 96px;
 }
 
 .description-long h1 {
