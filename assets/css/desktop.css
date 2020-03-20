@@ -10,7 +10,7 @@ body {
 .page {
     margin: 0 auto;
 
-    width: 650px;
+    width: 600px;
 
     line-height: 1.5;
 }
@@ -156,7 +156,7 @@ body {
 }
 
 .domain-list li {
-    width: 316px;
+    width: 50%;
 
     float: left;
 }
