@@ -1,0 +1,7 @@
+@media screen and (max-width: 640px) {
+    .domain-list ul {
+        width: 565px;
+
+        columns: 1;
+    }
+}

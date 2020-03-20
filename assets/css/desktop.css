@@ -142,21 +142,13 @@ body {
     list-style-type: circle;
 }
 
-.domain-list {
-    display: inline-block;
-}
-
 .domain-list ul {
     margin: 0;
     padding-inline-start: 18px;
 
     list-style-type: circle;
-}
 
-.domain-list li {
-    width: 50%;
-
-    float: left;
+    columns: 2;
 }
 
 .latest-projects-and-roles a {
