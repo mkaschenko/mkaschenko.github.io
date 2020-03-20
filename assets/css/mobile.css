@@ -1,7 +1,18 @@
 @media screen and (max-width: 640px) {
+    .technology-list ul {
+        padding-inline-start: 23px;
+    }
+
     .domain-list ul {
-        width: 565px;
+        width: 560px;
+
+        padding-inline-start: 23px;
 
         columns: 1;
     }
+
+    .education ul {
+        padding-inline-start: 23px;
+    }
+
 }
