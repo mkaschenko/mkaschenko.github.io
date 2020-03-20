@@ -32,12 +32,3 @@
 
     display: block;
 }
-
-.delimiter-vertical-75 {
-    width: 75px;
-    height: 100%;
-
-    display: inline-block;
-
-    float: left;
-}

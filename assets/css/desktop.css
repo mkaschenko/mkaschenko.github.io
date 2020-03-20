@@ -72,7 +72,7 @@ body {
 }
 
 .contacts {
-    width: 392px;
+    width: 70%;
 
     float: left;
 }
@@ -93,8 +93,8 @@ body {
 }
 
 .cv {
+    width: 30%;
     height: 120px;
-    width: 96px;
 
     display: inline-block;
 
@@ -114,8 +114,8 @@ body {
 }
 
 .picture img {
-    height: 96px;
     width: 96px;
+    height: 96px;
 }
 
 .description-long h1 {
