@@ -67,7 +67,7 @@ body {
     text-align: center;
 }
 
-.description-short {
+.details {
     height: 120px;
 }
 
@@ -118,23 +118,23 @@ body {
     height: 96px;
 }
 
-.description-long h1 {
+.description h1 {
     margin: 0;
 
     font-size: 18px;
     line-height: 1.3;
 }
 
-.description-long h1 a {
+.description h1 a {
     color: black;
     text-decoration: none;
 }
 
-.description-long h1 a:hover {
+.description h1 a:hover {
     text-decoration: underline;
 }
 
-.description-long p {
+.description p {
     text-align: justify;
 }
 
