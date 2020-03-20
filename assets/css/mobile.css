@@ -1,4 +1,24 @@
 @media screen and (max-width: 640px) {
+    .contacts {
+        width: 75%;
+
+        font-size: 18px;
+    }
+
+    .cv {
+        width: 25%;
+
+        font-size: 18px;
+    }
+
+    .picture {
+        height: 108px;
+    }
+
+    .picture img {
+        width: 108px;
+    }
+
     .technology-list ul {
         padding-inline-start: 23px;
     }
