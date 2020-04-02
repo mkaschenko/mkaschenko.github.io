@@ -1,0 +1,30 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #073642;
+        color: #657b83;
+    }
+
+    .contacts a {
+        color: #6c71c4;
+    }
+
+    .cv a {
+        color: #6c71c4;
+    }
+
+    .latest-projects-and-roles a {
+        color: #6c71c4;
+    }
+
+    .latest-projects-and-roles span {
+        color: #586e75;
+    }
+
+    .education a {
+        color: #6c71c4;
+    }
+
+    .credits a {
+        color: #6c71c4;
+    }
+}
