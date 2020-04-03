@@ -1,15 +1,24 @@
+/* https://github.com/altercation/solarized#precision-colors-for-machines-and-people */
+/* https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized#the-values */
+:root {
+    --solarized-base02: #073642;
+    --solarized-base01: #586e75;
+    --solarized-base00: #657b83;
+    --solarized-violet: #6c71c4;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #073642;
-        color: #657b83;
+        background-color: var(--solarized-base02);
+        color: var(--solarized-base00);
     }
 
     .contacts a {
-        color: #6c71c4;
+        color: var(--solarized-violet);
     }
 
     .cv a {
-        color: #6c71c4;
+        color: var(--solarized-violet);
     }
 
     .picture {
@@ -18,18 +27,18 @@
     }
 
     .latest-projects-and-roles a {
-        color: #6c71c4;
+        color: var(--solarized-violet);
     }
 
     .latest-projects-and-roles span {
-        color: #586e75;
+        color: var(--solarized-base01);
     }
 
     .education a {
-        color: #6c71c4;
+        color: var(--solarized-violet);
     }
 
     .credits a {
-        color: #6c71c4;
+        color: var(--solarized-violet);
     }
 }
