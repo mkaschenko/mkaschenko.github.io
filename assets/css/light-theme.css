@@ -1,0 +1,33 @@
+body {
+    background-color: #FDF6E3;
+    color: black;
+}
+
+.contacts a {
+    color: blue;
+}
+
+.cv a {
+    color: blue;
+}
+
+.picture {
+    background-image: url("../images/cv-black.png");
+    background-size: 100%;
+}
+
+.latest-projects-and-roles a {
+    color: blue;
+}
+
+.latest-projects-and-roles span {
+    color: gray;
+}
+
+.education a {
+    color: blue;
+}
+
+.credits a {
+    color: blue;
+}

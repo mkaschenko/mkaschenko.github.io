@@ -80,10 +80,6 @@ body {
     list-style-type: none;
 }
 
-.contacts a {
-    color: blue;
-}
-
 .contacts a:hover {
     text-decoration: none;
 }
@@ -100,18 +96,11 @@ body {
     text-decoration: none;
 }
 
-.cv a {
-    color: blue;
-}
-
 .picture {
     margin: 0 auto;
 
     width: 96px;
     height: 96px;
-
-    background-image: url("../images/cv-black.png");
-    background-size: 100%;
 }
 
 .picture a {
@@ -146,20 +135,8 @@ body {
     columns: 2;
 }
 
-.latest-projects-and-roles a {
-    color: blue;
-}
-
 .latest-projects-and-roles a:hover {
     text-decoration: none;
-}
-
-.latest-projects-and-roles span {
-    color: gray;
-}
-
-.education a {
-    color: blue;
 }
 
 .education a:hover {
@@ -182,7 +159,6 @@ body {
 }
 
 .credits a {
-    color: blue;
     text-decoration: none;
 }
 
