@@ -12,11 +12,12 @@
     }
 
     .picture {
+        width: 108px;
         height: 108px;
     }
 
-    .picture img {
-        width: 108px;
+    .picture a {
+        height: 108px;
     }
 
     .technology-list ul {
@@ -34,5 +35,4 @@
     .education ul {
         padding-inline-start: 23px;
     }
-
 }

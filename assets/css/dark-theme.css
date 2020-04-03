@@ -12,6 +12,10 @@
         color: #6c71c4;
     }
 
+    .picture {
+        background-image: url("../images/cv-gray.png");
+    }
+
     .latest-projects-and-roles a {
         color: #6c71c4;
     }
