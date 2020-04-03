@@ -1,32 +1,32 @@
 /* https://github.com/altercation/solarized#precision-colors-for-machines-and-people */
 /* https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized#the-values */
 :root {
+    --solarized-base03: #002b36;
     --solarized-base1: #93a1a1;
-    --solarized-base3: #FDF6E3;
-    --black-color: black;
-    --blue-color: blue;
+    --solarized-base3: #fdf6e3;
+    --solarized-blue: #268bd2;
 }
 
 body {
     background-color: var(--solarized-base3);
-    color: var(--black-color);
+    color: var(--solarized-base03);
 }
 
 .contacts a {
-    color: var(--blue-color);
+    color: var(--solarized-blue);
 }
 
 .cv a {
-    color: var(--blue-color);
+    color: var(--solarized-blue);
 }
 
 .picture {
-    background-image: url("../images/cv-black.png");
+    background-image: url("../images/cv-solarized-base03.png");
     background-size: 100%;
 }
 
 .latest-projects-and-roles a {
-    color: var(--blue-color);
+    color: var(--solarized-blue);
 }
 
 .latest-projects-and-roles span {
@@ -34,9 +34,9 @@ body {
 }
 
 .education a {
-    color: var(--blue-color);
+    color: var(--solarized-blue);
 }
 
 .credits a {
-    color: var(--blue-color);
+    color: var(--solarized-blue);
 }
