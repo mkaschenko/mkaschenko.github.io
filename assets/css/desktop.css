@@ -48,6 +48,10 @@ body {
     margin: 0;
 }
 
+.about a:hover {
+    text-decoration: none;
+}
+
 .photo {
     margin: 0 auto;
 
@@ -78,20 +82,12 @@ body {
     list-style-type: none;
 }
 
-.contacts a:hover {
-    text-decoration: none;
-}
-
 .cv {
     width: 30%;
 
     display: inline-block;
 
     text-align: center;
-}
-
-.cv:hover a {
-    text-decoration: none;
 }
 
 .picture {
@@ -131,14 +127,6 @@ body {
     list-style-type: circle;
 
     columns: 2;
-}
-
-.latest-projects-and-roles a:hover {
-    text-decoration: none;
-}
-
-.education a:hover {
-    text-decoration: none;
 }
 
 .education ul {

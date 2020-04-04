@@ -1,22 +1,18 @@
 @media screen and (max-width: 640px) {
+    .about a:hover {
+        text-decoration: underline;
+    }
+
     .contacts {
         width: 75%;
 
         font-size: 18px;
     }
 
-    .contacts a:hover {
-        text-decoration: underline;
-    }
-
     .cv {
         width: 25%;
 
         font-size: 18px;
-    }
-
-    .cv:hover a {
-        text-decoration: underline;
     }
 
     .picture {
@@ -38,14 +34,6 @@
         padding-inline-start: 23px;
 
         columns: 1;
-    }
-
-    .latest-projects-and-roles a:hover {
-        text-decoration: underline;
-    }
-
-    .education a:hover {
-        text-decoration: underline;
     }
 
     .education ul {

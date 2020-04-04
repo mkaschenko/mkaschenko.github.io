@@ -12,11 +12,7 @@ body {
     color: var(--solarized-base03);
 }
 
-.contacts a {
-    color: var(--solarized-blue);
-}
-
-.cv a {
+.about a {
     color: var(--solarized-blue);
 }
 
@@ -25,16 +21,8 @@ body {
     background-size: 100%;
 }
 
-.latest-projects-and-roles a {
-    color: var(--solarized-blue);
-}
-
 .latest-projects-and-roles span {
     color: var(--solarized-base1);
-}
-
-.education a {
-    color: var(--solarized-blue);
 }
 
 .credits a {
