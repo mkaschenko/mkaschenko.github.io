@@ -156,10 +156,6 @@ body {
     text-align: right;
 }
 
-.credits a {
-    text-decoration: none;
-}
-
 .credits a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
