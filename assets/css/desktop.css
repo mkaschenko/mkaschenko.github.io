@@ -97,6 +97,10 @@ body {
     height: 96px;
 }
 
+.picture:hover + a {
+    text-decoration: none;
+}
+
 .picture a {
     height: 96px;
 

@@ -20,6 +20,10 @@
         height: 108px;
     }
 
+    .picture:hover + a {
+        text-decoration: underline;
+    }
+
     .picture a {
         height: 108px;
     }
