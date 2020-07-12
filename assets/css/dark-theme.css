@@ -1,32 +1,32 @@
 /* https://github.com/altercation/solarized#precision-colors-for-machines-and-people */
 /* https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized#the-values */
 :root {
-    --solarized-base02: #073642;
-    --solarized-base01: #586e75;
-    --solarized-base00: #657b83;
-    --solarized-violet: #6c71c4;
+  --solarized-base02: #073642;
+  --solarized-base01: #586e75;
+  --solarized-base00: #657b83;
+  --solarized-violet: #6c71c4;
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: var(--solarized-base02);
-        color: var(--solarized-base00);
-    }
+  body {
+    background-color: var(--solarized-base02);
+    color: var(--solarized-base00);
+  }
 
-    .about a {
-        color: var(--solarized-violet);
-    }
+  .about a {
+    color: var(--solarized-violet);
+  }
 
-    .picture {
-        background-image: url("../images/cv-solarized-base00.png?v08293754776957998");
-        background-size: 100%;
-    }
+  .picture {
+    background-image: url("../images/cv-solarized-base00.png?v08293754776957998");
+    background-size: 100%;
+  }
 
-    .latest-projects-and-roles span {
-        color: var(--solarized-base01);
-    }
+  .latest-projects-and-roles span {
+    color: var(--solarized-base01);
+  }
 
-    .credits a {
-        color: var(--solarized-violet);
-    }
+  .credits a {
+    color: var(--solarized-violet);
+  }
 }
