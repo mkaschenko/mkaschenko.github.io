@@ -29,6 +29,6 @@
 
 @media print and (prefers-color-scheme: dark) {
     .about a {
-        color: var(--solarized-base00);
+        color: var(--solarized-base0);
     }
 }
