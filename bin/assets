@@ -1,3 +1,5 @@
+#!/bin/bash
+
 printf "Versioning assets..."
 ruby -pi -e "version ||= 'v' + rand.to_s.delete('.'); gsub(/v\d+/, version)" assets/css/dark-theme.css assets/css/light-theme.css index.html
 printf "done\n"
