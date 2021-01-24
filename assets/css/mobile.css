@@ -1,46 +1,46 @@
 @media screen and (max-width: 640px) {
-    .about a:hover {
-        text-decoration: underline;
-    }
+  .about a:hover {
+    text-decoration: underline;
+  }
 
-    .contacts {
-        width: 75%;
+  .contacts {
+    width: 75%;
 
-        font-size: 18px;
-    }
+    font-size: 18px;
+  }
 
-    .cv {
-        width: 25%;
+  .cv {
+    width: 25%;
 
-        font-size: 18px;
-    }
+    font-size: 18px;
+  }
 
-    .picture {
-        width: 108px;
-        height: 108px;
-    }
+  .picture {
+    width: 108px;
+    height: 108px;
+  }
 
-    .picture:hover + a {
-        text-decoration: underline;
-    }
+  .picture:hover + a {
+    text-decoration: underline;
+  }
 
-    .picture a {
-        height: 108px;
-    }
+  .picture a {
+    height: 108px;
+  }
 
-    .technology-list ul {
-        padding-inline-start: 23px;
-    }
+  .technology-list ul {
+    padding-inline-start: 23px;
+  }
 
-    .domain-list ul {
-        width: 560px;
+  .domain-list ul {
+    width: 560px;
 
-        padding-inline-start: 23px;
+    padding-inline-start: 23px;
 
-        columns: 1;
-    }
+    columns: 1;
+  }
 
-    .education ul {
-        padding-inline-start: 23px;
-    }
+  .education ul {
+    padding-inline-start: 23px;
+  }
 }
