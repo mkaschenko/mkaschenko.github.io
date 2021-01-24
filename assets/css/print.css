@@ -10,8 +10,8 @@
         float: none;
     }
 
-    .cv, .credits {
-        display: none;
+    .cv {
+      display: none;
     }
 
     .domain-list ul {

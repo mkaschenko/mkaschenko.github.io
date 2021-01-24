@@ -112,15 +112,3 @@ h1 {
 
     list-style-type: circle;
 }
-
-.credits {
-    width: 100%;
-
-    font-size: 0.8em;
-
-    text-align: right;
-}
-
-.credits a:hover {
-    text-decoration: none;
-}

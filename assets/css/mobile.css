@@ -43,12 +43,4 @@
     .education ul {
         padding-inline-start: 23px;
     }
-
-    .credits {
-        font-size: 0.7em;
-    }
-
-    .credits a:hover {
-        text-decoration: underline;
-    }
 }
