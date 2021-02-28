@@ -4,12 +4,6 @@
     color: var(--solarized-base03);
   }
 
-  .contacts {
-    width: 100%;
-
-    float: none;
-  }
-
   .cv {
     display: none;
   }

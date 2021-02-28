@@ -3,15 +3,7 @@
     text-decoration: underline;
   }
 
-  .contacts {
-    width: 75%;
-
-    font-size: 18px;
-  }
-
-  .cv {
-    width: 25%;
-
+  .details {
     font-size: 18px;
   }
 
