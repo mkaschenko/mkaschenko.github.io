@@ -82,10 +82,6 @@ h1 {
   display: block;
 }
 
-.description p {
-  text-align: justify;
-}
-
 .technology-list ul {
   margin: 0;
   padding-inline-start: 18px;
