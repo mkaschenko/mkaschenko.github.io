@@ -12,6 +12,12 @@ h1 {
   font-size: 20px;
 }
 
+ul {
+  margin: 0;
+  padding-inline-start: 18px;
+  list-style-type: circle;
+}
+
 .page {
   margin: 0 auto;
 
@@ -52,13 +58,6 @@ h1 {
   display: flex;
 }
 
-.contacts ul {
-  margin: 0;
-  padding-inline-start: 0;
-
-  list-style-type: none;
-}
-
 .cv {
   flex: 1;
   text-align: center;
@@ -81,24 +80,6 @@ h1 {
   display: block;
 }
 
-.technology-list ul {
-  margin: 0;
-  padding-inline-start: 18px;
-  list-style-type: circle;
-}
-
 .domain-list ul {
-  margin: 0;
-  padding-inline-start: 18px;
-
-  list-style-type: circle;
-
   columns: 2;
-}
-
-.education ul {
-  margin: 0;
-  padding-inline-start: 18px;
-
-  list-style-type: circle;
 }
